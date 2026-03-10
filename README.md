@@ -58,36 +58,38 @@ ganesh = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📉 Global Layoffs Data Analysis</h3>
-      <p>SQL-driven deep-dive into worldwide tech industry layoffs</p>
+      <h3>🛍️ Customer Shopping Behaviour Analysis</h3>
+      <p>End-to-end analytics on <strong>3,900 retail transactions</strong> — Python · SQL · Power BI</p>
       <ul>
-        <li>Full <strong>data cleaning pipeline</strong> using advanced SQL</li>
-        <li>Trend analysis across companies, industries & geographies</li>
-        <li>Window functions, CTEs, and aggregation for insights</li>
+        <li>Full EDA + feature engineering in <strong>Python (Pandas, Matplotlib)</strong></li>
+        <li>20+ SQL queries using CTEs, window functions & percentile analysis</li>
+        <li>Interactive <strong>Power BI dashboard</strong> with custom dark theme & 5 slicers</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       </p>
-      <a href="https://github.com/GaneshJag31/Global-Layoffs-Data-Analysis">
+      <a href="https://github.com/GaneshJag31/Customer_Behaviour_Analysis">
         <img src="https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Data Analysis Project</h3>
-      <p>End-to-end analysis workflow — raw data to actionable insights</p>
+      <h3>🛒 Amazon Sales Dashboard</h3>
+      <p>Interactive <strong>Power BI dashboard</strong> analysing Amazon product sales performance</p>
       <ul>
-        <li>Data ingestion, cleaning, transformation & visualization</li>
-        <li>Statistical analysis and charting with Python libraries</li>
+        <li>Tracked KPIs: profit, orders, returns across product categories</li>
+        <li>Data cleaning & transformation with <strong>Power Query</strong></li>
+        <li>DAX measures, global sales map & top product profit analysis</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX-CC2927?style=flat-square&logo=microsoft&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
       </p>
-      <a href="https://github.com/GaneshJag31/Data-Analysis-Project-1">
+      <a href="https://github.com/GaneshJag31/Amazon-Sales-Report">
         <img src="https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
