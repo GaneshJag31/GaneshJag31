@@ -136,14 +136,14 @@ ganesh = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
 
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=GaneshJag31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshJag31&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshJag31&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/> 
 
 </div>
 
@@ -154,8 +154,7 @@ ganesh = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GaneshJag31&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 </div>
-
----
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:0D1117&height=100&section=footer" width="100%"/>
